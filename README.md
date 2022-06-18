@@ -1,2 +1,2 @@
 # athletics_data
-turn this main to master to view the code 
+turn main switch to master to view the code 
